@@ -1,0 +1,17 @@
+
+{
+"name": "ssc666",
+"theme": "ssc666",
+"version": "6.10.7",
+"description": "ssc666 สมัครเว็บไซต์สล็อตเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+"keywords": [
+"ssc666",
+"ssc666 เครดิตฟรี",
+"ssc666 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ssc666",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
